@@ -18,9 +18,9 @@ export function computeGameLevel(xp: number): string {
 export const DEFAULT_USERS: UserAccount[] = [
   {
     username: "giaovien",
-    email: "hoang.gv@mathmaster.edu.vn",
+    email: "dinhtrimanh2016@gmail.com",
     password: "admin123",
-    name: "Thầy Nguyễn Hoàng",
+    name: "Thầy Trí Mạnh",
     role: "teacher",
     className: "Tổ Toán",
     xp: 1200,

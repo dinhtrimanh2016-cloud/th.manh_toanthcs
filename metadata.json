@@ -1,0 +1,6 @@
+{
+  "name": "MathMaster LMS",
+  "description": "Website LMS dạy học môn Toán tích hợp công thức LaTeX, trắc nghiệm kết nối Google Sheet, trợ lý AI giải toán và bảng xếp hạng thử thách.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
